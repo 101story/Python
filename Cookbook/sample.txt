@@ -1,4 +1,1 @@
-Hello World
-Spicy Jalapeño
-hello world!
-hello world!
+hello world
