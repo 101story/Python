@@ -3,6 +3,7 @@
 * Python Basic
 * source: https://wikidocs.net/book/1
 
-# Python-cookbook 
+# Python-cookbook
+
 * Deep Dive Python Theory
-* source: https://github.com/dabeaz/python-cookbook
+* source: <https://github.com/dabeaz/python-cookbook>
