@@ -137,7 +137,7 @@ async def websocket_endpoint(websocket: WebSocket):
 
 
 @app.websocket("/ws_file")
-async def websocket_endpoint(websocket: WebSocket):
+async def websocket_filesend(websocket: WebSocket):
     print("started")
     await websocket.accept()
     try:
